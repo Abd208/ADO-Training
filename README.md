@@ -37,6 +37,22 @@ Security is a critical aspect of software development. In this section, you will
 ADO provides a range of tools for creating and managing work items. In this section, you will learn how to create and manage issues, user stories, tasks, features, and epics. You will also learn how to use tags and labels to organize and manage work items.
 
 By learning these topics, you will gain a better understanding of how to use Azure DevOps to manage your software development projects effectively.
+
+# Azure DevOps Tools
+Azure DevOps is a cloud-based service provided by Microsoft that offers a range of tools for managing the software development lifecycle. Some of the most important Azure DevOps tools are:
+
+## 1. Boards:
+Azure Boards is a tool for managing your backlog, tracking your work items (such as bugs, tasks, and user stories), and planning and tracking sprints. Boards provides you with a range of agile tools, including customizable Kanban boards and Scrum boards.
+
+## 2. Repos:
+Azure Repos is a tool for managing your source code repositories. With Azure Repos, you can host Git repositories or Team Foundation Version Control (TFVC) repositories, and manage your code with features such as branch management, pull requests, and code reviews.
+
+## 3. Pipelines:
+Azure Pipelines is a tool for building, testing, and deploying your applications. With Azure Pipelines, you can create continuous integration and delivery (CI/CD) pipelines to automate your build and release processes. You can also deploy your applications to a wide range of platforms, including Azure, Kubernetes, and Docker.
+
+## 4. Artifacts: 
+Azure Artifacts is a tool for managing your packages and dependencies. With Azure Artifacts, you can create and host your own NuGet, npm, or Maven feeds, and manage your packages and dependencies with features such as versioning, access control, and automatic package restoration.
+
 # Backlog Groming
 Backlog grooming is the process of reviewing, refining, and prioritizing the items in a product backlog. It's an essential activity for any Agile team that uses a backlog to manage their work. By keeping the backlog up-to-date, the team ensures that they are working on the most important tasks, and they have a clear understanding of what needs to be done next.
 ## Backlog Groming Detail Link: 
