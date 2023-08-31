@@ -4,7 +4,7 @@
 ## Why Participate in ADO Training?
 If you or your team are new to Azure DevOps, participating in an ADO training program or course can be highly beneficial. By participating in an ADO training program, you can learn how to use Azure DevOps effectively and efficiently, which can help you and your team be more productive and successful in your software development projects. 
 
-Some of the benefits of ADO training include:
+Some of the benefits of ADO training include:  
 - Understanding how to use Azure DevOps to streamline your software development process 
 - Learning best practices for using version control and managing work items and tasks
 - Gaining knowledge of how to set up and configure Azure DevOps projects
