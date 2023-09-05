@@ -10,7 +10,7 @@ Some of the benefits of ADO training include:
 - Gaining knowledge of how to set up and configure Azure DevOps projects
 - Enhancing your ability to build and deploy applications using continuous integration and delivery
 - Learning how to create and run tests to ensure your code is working as expected
-- Improving your ability to monitor and report on project progress to stakeholders
+- Improving your ability to monitor and report on project progress to stakeholders 
 
 # Learning Topics in Azure DevOps Training
 Azure DevOps (ADO) is a cloud-based service that offers a variety of tools for managing the software development lifecycle. Here are some of the key learning topics you may encounter in ADO training:
