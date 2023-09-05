@@ -1,6 +1,6 @@
 # ADO-Training
 "ADO" stands for "Azure DevOps", which is a cloud-based service provided by Microsoft that offers a wide range of tools for managing the software development lifecycle. Some of the features of ADO include version control, project management, continuous integration and delivery, testing, and more.
-
+ 
 ## Why Participate in ADO Training?
 If you or your team are new to Azure DevOps, participating in an ADO training program or course can be highly beneficial. By participating in an ADO training program, you can learn how to use Azure DevOps effectively and efficiently, which can help you and your team be more productive and successful in your software development projects. 
 
